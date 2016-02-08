@@ -1,0 +1,24 @@
+{
+  "name": "mashup",
+  "version": "1.0.0",
+  "description": "Mashup-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/st3m4u/mashup.git"
+  },
+  "keywords": [
+    "mashup",
+    "node",
+    "demo"
+  ],
+  "author": "st3m4u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/st3m4u/mashup/issues"
+  },
+  "homepage": "https://github.com/st3m4u/mashup#readme"
+}
